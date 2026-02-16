@@ -86,7 +86,7 @@ cw_steps = [[1,0,0,0],[0,1,0,0],[0,0,1,0],[0,0,0,1]]
 
 #acw_steps = [[0,0,0,1],[0,0,1,0],[0,1,0,0],[1,0,0,0]]
 
-steps = 512  
+steps = 500  
 
 while True:
     for i in range(steps):
